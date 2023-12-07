@@ -52,7 +52,7 @@ Clone the repository unto your local machine cd to the folder.
 
 ## Author
 
-👤 SAMIR PAUL
+👤 DEVANSH
 - Github: [@devansh-abes](https://github.com/devansh-abes) 
 
 - Linkedin: [Devansh.](https://www.linkedin.com/in/devansh-33871424a/) 
